@@ -1,13 +1,8 @@
-﻿
-namespace GeometricJesperPersson
+﻿namespace GeometricJesperPersson
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
-        {}
+        private static void Main(string[] args)
+        { }
     }
 }
